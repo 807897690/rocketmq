@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rocketmq.iml" filepath="$PROJECT_DIR$/rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-consumer/rocketmqconsumer.iml" filepath="$PROJECT_DIR$/rocketmq-consumer/rocketmqconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-producer/rocketmqproducer.iml" filepath="$PROJECT_DIR$/rocketmq-producer/rocketmqproducer.iml" />
+    </modules>
+  </component>
+</project>
